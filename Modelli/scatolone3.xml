@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive'>
+    <head>
+        <meta name='Vizthumbnail' content='Thumb_scatolone3_x3d2492151401217538.jpg'/>
+        <meta name='filename' content='taxi.x3d'/>
+        <meta name='generator' content='Blender 2.69 (sub 0)'/>
+        <meta name='filename' content='vaporetto.x3d'/>
+        <meta name='ExportTime' content='21: 5:38'/>
+        <meta name='ExportDate' content='5/27/2014'/>
+        <meta name='VivatyStudioVersion' content='738'/>
+        <meta name='VivatyStudioSource' content='prgetto ium- leggero.fxw'/>
+    </head>
+    <Scene>
+        <WorldInfo
+                title='gondola'
+                info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+ "www.mediamachines.com"'/>
+        <Shape>
+            <Appearance DEF='COL_Color_C13'
+                        containerField='appearance'>
+                <Material DEF='material34' id="scat31"
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.6 .42 .239'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    0 11.024 0
+    0 0 0
+    0 0 11.024
+    0 11.024 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor'
+                        containerField='appearance'>
+                <Material DEF='material8' id="scat32"
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.643 .698 .733'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    0 11.024 11.024
+    0 0 11.024
+    0 0 0
+    0 11.024 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_Color_C14'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material34'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 11.024 11.024
+    0 11.024 11.024
+    0 0 11.024
+    11.024 0 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_Color_C15'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material34'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 11.024 0
+    0 11.024 0
+    0 11.024 11.024
+    11.024 11.024 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_Color_C16'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material34'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    0 0 0
+    0 11.024 0
+    11.024 11.024 0
+    11.024 0 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor0'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material8'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 0 0
+    11.024 11.024 0
+    0 11.024 0
+    0 0 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_Color_C17'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material34'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 0 0
+    11.024 11.024 0
+    11.024 11.024 11.024
+    11.024 0 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor1'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material8'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 0 11.024
+    11.024 11.024 11.024
+    11.024 11.024 0
+    11.024 0 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor2'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material8'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 0 11.024
+    0 0 11.024
+    0 11.024 11.024
+    11.024 11.024 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_Color_C18'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material34'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    0 0 0
+    11.024 0 0
+    11.024 0 11.024
+    0 0 11.024'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor3'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material8'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    0 0 11.024
+    11.024 0 11.024
+    11.024 0 0
+    0 0 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape>
+            <Appearance DEF='COL_BackColor4'
+                        containerField='appearance'>
+                <Material
+                        containerField='material'
+                        USE='material8'/>
+            </Appearance>
+            <IndexedFaceSet
+                    containerField='geometry'
+                    creaseAngle='.5236'
+                    coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+    11.024 11.024 11.024
+    0 11.024 11.024
+    0 11.024 0
+    11.024 11.024 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 11.024 11.024
+   0 0 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 11.024 11.024
+   0 11.024 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 0 11.024
+   11.024 11.024 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 0 0
+   11.024 0 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 0 0
+   11.024 11.024 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 0
+   11.024 0 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 11.024 0
+   0 0 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 11.024 0
+   0 11.024 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 11.024 0
+   0 11.024 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   11.024 11.024 0
+   11.024 11.024 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 0
+   0 0 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 11.024
+   11.024 0 11.024'/>
+            </IndexedLineSet>
+        </Shape>
+    </Scene>
+</X3D>

@@ -1,0 +1,3561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive'>
+    <head>
+        <meta name='Vizthumbnail' content='Thumb_poltrona_x3d2955241401217584.jpg'/>
+        <meta name='filename' content='taxi.x3d'/>
+        <meta name='generator' content='Blender 2.69 (sub 0)'/>
+        <meta name='filename' content='vaporetto.x3d'/>
+        <meta name='ExportTime' content='21: 6:24'/>
+        <meta name='ExportDate' content='5/27/2014'/>
+        <meta name='VivatyStudioVersion' content='738'/>
+        <meta name='VivatyStudioSource' content='prgetto ium- leggero.fxw'/>
+    </head>
+    <Scene>
+        <WorldInfo
+                title='gondola'
+                info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+ "www.mediamachines.com"'/>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   12.303 81.496 96.269
+   15.487 81.496 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   9.119 81.496 95.85
+   12.303 81.496 96.269'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   6.152 81.496 94.621
+   9.119 81.496 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   3.604 81.496 92.666
+   6.152 81.496 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   1.648 81.496 90.118
+   3.604 81.496 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   .419 81.496 87.15
+   1.648 81.496 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.496 83.966
+   .419 81.496 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.496 83.966
+   0 81.496 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.496 83.966
+   24.606 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.606 81.496 57.48
+   24.606 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.606 0 57.48
+   24.606 81.496 57.48'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 0 57.48
+   24.606 0 57.48'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 0 57.48
+   73.819 81.496 57.48'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 0 57.48
+   73.819 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 0 83.966
+   74.238 0 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   74.238 0 87.15
+   75.467 0 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   75.467 0 90.118
+   77.422 0 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   77.422 0 92.666
+   79.97 0 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   79.97 0 94.621
+   82.938 0 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   82.938 0 95.85
+   86.122 0 96.269'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   86.122 0 96.269
+   89.306 0 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   89.306 0 95.85
+   92.274 0 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   92.274 0 94.621
+   94.822 0 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   94.822 0 92.666
+   96.777 0 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   96.777 0 90.118
+   98.006 0 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.006 0 87.15
+   98.425 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 0 0
+   98.425 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 81.496 0
+   98.425 0 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 106.102 0
+   98.425 81.496 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 106.102 0
+   0 106.102 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 106.102 0
+   98.425 106.102 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 106.102 137.795
+   98.425 105.683 140.98'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 105.683 140.98
+   98.425 104.454 143.947'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 104.454 143.947
+   98.425 102.499 146.495'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 102.499 146.495
+   98.425 99.951 148.45'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 99.951 148.45
+   98.425 96.984 149.679'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 96.984 149.679
+   98.425 93.799 150.098'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 93.799 150.098
+   98.425 90.615 149.679'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 90.615 149.679
+   98.425 87.648 148.45'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 87.648 148.45
+   98.425 85.1 146.495'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 85.1 146.495
+   98.425 83.144 143.947'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 83.144 143.947
+   98.425 81.915 140.98'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 81.915 140.98
+   98.425 81.496 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 81.496 83.966
+   98.425 81.496 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.006 81.496 87.15
+   98.425 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   96.777 81.496 90.118
+   98.006 81.496 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   94.822 81.496 92.666
+   96.777 81.496 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   92.274 81.496 94.621
+   94.822 81.496 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   89.306 81.496 95.85
+   92.274 81.496 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   86.122 81.496 96.269
+   89.306 81.496 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   82.938 81.496 95.85
+   86.122 81.496 96.269'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   79.97 81.496 94.621
+   82.938 81.496 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   77.422 81.496 92.666
+   79.97 81.496 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   75.467 81.496 90.118
+   77.422 81.496 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   74.238 81.496 87.15
+   75.467 81.496 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 81.496 83.966
+   74.238 81.496 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   73.819 81.496 57.48
+   73.819 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.606 81.496 57.48
+   73.819 81.496 57.48'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 81.496 83.966
+   73.819 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 106.102 0
+   0 106.102 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.496 0
+   0 106.102 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 0
+   0 81.496 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   98.425 0 0
+   0 0 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 0
+   0 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 0 83.966
+   .419 0 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   .419 0 87.15
+   1.648 0 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   1.648 0 90.118
+   3.604 0 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   3.604 0 92.666
+   6.152 0 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   6.152 0 94.621
+   9.119 0 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   9.119 0 95.85
+   12.303 0 96.269'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   12.303 0 96.269
+   15.487 0 95.85'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   15.487 0 95.85
+   18.455 0 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   18.455 0 94.621
+   21.003 0 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   21.003 0 92.666
+   22.958 0 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   22.958 0 90.118
+   24.187 0 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.187 0 87.15
+   24.606 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.606 0 57.48
+   24.606 0 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.496 0
+   98.425 81.496 0'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 106.102 137.795
+   0 105.683 140.98'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 105.683 140.98
+   0 104.454 143.947'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 104.454 143.947
+   0 102.499 146.495'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 102.499 146.495
+   0 99.951 148.45'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 99.951 148.45
+   0 96.984 149.679'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 96.984 149.679
+   0 93.799 150.098'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 93.799 150.098
+   0 90.615 149.679'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 90.615 149.679
+   0 87.648 148.45'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 87.648 148.45
+   0 85.1 146.495'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 85.1 146.495
+   0 83.144 143.947'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 83.144 143.947
+   0 81.915 140.98'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   0 81.915 140.98
+   0 81.496 137.795'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   24.187 81.496 87.15
+   24.606 81.496 83.966'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   22.958 81.496 90.118
+   24.187 81.496 87.15'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   21.003 81.496 92.666
+   22.958 81.496 90.118'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   18.455 81.496 94.621
+   21.003 81.496 92.666'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   15.487 81.496 95.85
+   18.455 81.496 94.621'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   21.684 0 54.558
+   21.684 0 83.775'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   76.741 0 54.558
+   21.684 0 54.558'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   76.741 0 83.775
+   76.741 0 54.558'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   77.085 0 86.388
+   76.741 0 83.775'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   78.02 0 88.644
+   77.085 0 86.388'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   79.507 0 90.582
+   78.02 0 88.644'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   81.444 0 92.068
+   79.507 0 90.582'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   83.701 0 93.003
+   81.444 0 92.068'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   86.122 0 93.322
+   83.701 0 93.003'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   88.543 0 93.003
+   86.122 0 93.322'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   90.8 0 92.068
+   88.543 0 93.003'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   92.737 0 90.582
+   90.8 0 92.068'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   94.224 0 88.644
+   92.737 0 90.582'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   95.159 0 86.388
+   94.224 0 88.644'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   95.503 0 83.775
+   95.159 0 86.388'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   95.503 0 2.922
+   95.503 0 83.775'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   2.922 0 2.922
+   95.503 0 2.922'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   2.922 0 83.775
+   2.922 0 2.922'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   3.266 0 86.388
+   2.922 0 83.775'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   4.201 0 88.644
+   3.266 0 86.388'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   5.688 0 90.582
+   4.201 0 88.644'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   7.625 0 92.068
+   5.688 0 90.582'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   9.882 0 93.003
+   7.625 0 92.068'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   12.303 0 93.322
+   9.882 0 93.003'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   14.725 0 93.003
+   12.303 0 93.322'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   16.981 0 92.068
+   14.725 0 93.003'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   18.919 0 90.582
+   16.981 0 92.068'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   20.405 0 88.644
+   18.919 0 90.582'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   21.34 0 86.388
+   20.405 0 88.644'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape
+                containerField='children'>
+            <Appearance
+                    containerField='appearance'/>
+            <IndexedLineSet
+                    containerField='geometry'
+                    colorIndex=''
+                    colorPerVertex='TRUE'
+                    coordIndex='
+  0 1 -1'>
+                <Coordinate
+                        containerField='coord'
+                        point='
+   21.684 0 83.775
+   21.34 0 86.388'/>
+            </IndexedLineSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet97'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material6'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.239 .4 .078'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet910'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    18 20 17 -1
+    17 20 21 -1
+    17 21 16 -1
+    16 21 22 -1
+    16 22 15 -1
+    15 22 23 -1
+    15 23 14 -1
+    14 23 24 -1
+    14 24 13 -1
+    13 24 25 -1
+    13 25 12 -1
+    12 25 26 -1
+    12 26 11 -1
+    11 26 33 -1
+    11 33 4 -1
+    4 5 6 -1
+    4 6 7 -1
+    4 7 8 -1
+    4 8 9 -1
+    4 9 10 -1
+    4 10 11 -1
+    33 26 27 -1
+    33 27 28 -1
+    33 28 29 -1
+    33 29 30 -1
+    33 30 31 -1
+    33 31 32 -1
+    20 18 19 -1
+    38 40 37 -1
+    37 40 42 -1
+    37 42 36 -1
+    36 42 43 -1
+    36 43 44 -1
+    36 44 45 -1
+    36 45 46 -1
+    36 46 47 -1
+    36 47 48 -1
+    36 48 49 -1
+    36 49 50 -1
+    36 50 51 -1
+    36 51 34 -1
+    36 34 35 -1
+    42 40 41 -1
+    40 38 39 -1
+    52 53 54 -1
+    52 54 55 -1
+    56 57 58 -1
+    56 58 59 -1
+    56 59 60 -1
+    56 60 61 -1
+    56 61 62 -1
+    56 62 63 -1
+    56 63 64 -1
+    56 64 65 -1
+    56 65 66 -1
+    56 66 67 -1
+    56 67 68 -1
+    69 70 71 -1
+    69 71 72 -1
+    73 74 75 -1
+    73 75 76 -1
+    77 78 79 -1
+    77 79 80 -1
+    81 82 83 -1
+    81 83 84 -1
+    85 86 87 -1
+    85 87 88 -1
+    89 90 91 -1
+    89 91 92 -1
+    93 94 95 -1
+    93 95 96 -1
+    97 98 99 -1
+    97 99 100 -1
+    101 102 103 -1
+    101 103 104 -1
+    105 106 107 -1
+    105 107 108 -1
+    115 109 114 -1
+    114 109 110 -1
+    114 110 113 -1
+    113 110 111 -1
+    113 111 112 -1
+    116 117 118 -1
+    119 120 121 -1
+    122 123 124 -1
+    125 126 127 -1
+    128 129 130 -1
+    131 132 133 -1
+    134 135 136 -1
+    137 138 139 -1
+    140 141 142 -1
+    140 142 143 -1
+    144 145 146 -1
+    144 146 147 -1
+    148 149 150 -1
+    148 150 151 -1
+    152 153 154 -1
+    155 156 157 -1
+    158 159 160 -1
+    161 162 163 -1
+    164 165 166 -1
+    167 168 169 -1
+    170 171 172 -1
+    173 174 175 -1
+    173 175 176 -1
+    177 178 179 -1
+    177 179 180 -1
+    181 182 183 -1
+    184 185 186 -1
+    187 188 189 -1
+    190 191 192 -1
+    190 192 193 -1
+    194 195 196 -1
+    197 198 199 -1
+    200 201 202 -1
+    203 204 205 -1
+    206 207 208 -1
+    209 210 211 -1
+    209 211 212 -1
+    213 214 215 -1
+    213 215 216 -1
+    217 218 219 -1
+    217 219 220 -1
+    221 222 223 -1
+    221 223 224 -1
+    225 226 227 -1
+    228 229 230 -1
+    231 232 233 -1
+    234 235 236 -1
+    237 238 239 -1
+    240 241 242 -1
+    243 244 245 -1
+    246 247 248 -1
+    249 250 251 -1
+    252 253 254 -1
+    255 256 257 -1
+    258 259 260 -1
+    261 262 263 -1
+    261 263 264 -1
+    265 266 267 -1
+    265 267 268 -1
+    269 270 271 -1
+    269 271 272 -1
+    273 274 275 -1
+    273 275 276 -1
+    277 278 279 -1
+    277 279 280 -1
+    281 282 283 -1
+    284 285 286 -1
+    287 288 289 -1
+    290 291 292 -1
+    293 294 295 -1
+    296 297 298 -1
+    299 300 301 -1
+    302 303 304 -1
+    305 306 307 -1
+    308 309 310 -1
+    311 312 313 -1
+    314 315 316 -1
+    317 318 319 -1
+    320 321 322 -1
+    323 324 325 -1
+    326 327 328 -1
+    329 330 331 -1
+    332 333 334 -1
+    335 336 337 -1
+    338 339 340 -1
+    341 342 343 -1
+    344 345 346 -1
+    347 348 349 -1
+    347 349 350 -1
+    351 352 353 -1
+    351 353 354 -1
+    355 356 357 -1
+    355 357 358 -1
+    359 360 361 -1
+    362 363 364 -1
+    365 366 367 -1
+    365 367 368 -1
+    369 370 371 -1
+    369 371 372 -1
+    373 374 375 -1
+    376 377 378 -1
+    376 378 379 -1
+    380 381 382 -1
+    380 382 383 -1
+    384 385 386 -1
+    384 386 387 -1
+    388 389 390 -1
+    388 390 391 -1
+    392 393 394 -1
+    392 394 395 -1
+    396 397 398 -1
+    396 398 399 -1
+    400 401 402 -1
+    400 402 403 -1
+    404 405 406 -1
+    404 406 407 -1'>
+                <Coordinate DEF='IndexedFaceSet97_Coord'
+                            containerField='coord'
+                            point='
+    98.006 0 87.15
+    98.425 0 83.966
+    98.425 81.496 83.966
+    98.006 81.496 87.15
+    0 81.496 137.795
+    0 81.496 83.966
+    .419 81.496 87.15
+    1.648 81.496 90.118
+    3.604 81.496 92.666
+    6.152 81.496 94.621
+    9.119 81.496 95.85
+    12.303 81.496 96.269
+    15.487 81.496 95.85
+    18.455 81.496 94.621
+    21.003 81.496 92.666
+    22.958 81.496 90.118
+    24.187 81.496 87.15
+    24.606 81.496 83.966
+    24.606 81.496 57.48
+    73.819 81.496 57.48
+    73.819 81.496 83.966
+    74.238 81.496 87.15
+    75.467 81.496 90.118
+    77.422 81.496 92.666
+    79.97 81.496 94.621
+    82.938 81.496 95.85
+    86.122 81.496 96.269
+    89.306 81.496 95.85
+    92.274 81.496 94.621
+    94.822 81.496 92.666
+    96.777 81.496 90.118
+    98.006 81.496 87.15
+    98.425 81.496 83.966
+    98.425 81.496 137.795
+    0 105.683 140.98
+    0 106.102 137.795
+    0 106.102 0
+    0 81.496 0
+    0 0 0
+    0 0 83.966
+    0 81.496 83.966
+    0 81.496 137.795
+    0 81.915 140.98
+    0 83.144 143.947
+    0 85.1 146.495
+    0 87.648 148.45
+    0 90.615 149.679
+    0 93.799 150.098
+    0 96.984 149.679
+    0 99.951 148.45
+    0 102.499 146.495
+    0 104.454 143.947
+    98.425 102.499 146.495
+    98.425 104.454 143.947
+    0 104.454 143.947
+    0 102.499 146.495
+    98.425 81.915 140.98
+    98.425 81.496 137.795
+    98.425 106.102 137.795
+    98.425 105.683 140.98
+    98.425 104.454 143.947
+    98.425 102.499 146.495
+    98.425 99.951 148.45
+    98.425 96.984 149.679
+    98.425 93.799 150.098
+    98.425 90.615 149.679
+    98.425 87.648 148.45
+    98.425 85.1 146.495
+    98.425 83.144 143.947
+    98.425 83.144 143.947
+    98.425 85.1 146.495
+    0 85.1 146.495
+    0 83.144 143.947
+    98.425 85.1 146.495
+    98.425 87.648 148.45
+    0 87.648 148.45
+    0 85.1 146.495
+    98.425 87.648 148.45
+    98.425 90.615 149.679
+    0 90.615 149.679
+    0 87.648 148.45
+    98.425 90.615 149.679
+    98.425 93.799 150.098
+    0 93.799 150.098
+    0 90.615 149.679
+    98.425 93.799 150.098
+    98.425 96.984 149.679
+    0 96.984 149.679
+    0 93.799 150.098
+    98.425 96.984 149.679
+    98.425 99.951 148.45
+    0 99.951 148.45
+    0 96.984 149.679
+    98.425 99.951 148.45
+    98.425 102.499 146.495
+    0 102.499 146.495
+    0 99.951 148.45
+    98.425 104.454 143.947
+    98.425 105.683 140.98
+    0 105.683 140.98
+    0 104.454 143.947
+    98.425 105.683 140.98
+    98.425 106.102 137.795
+    0 106.102 137.795
+    0 105.683 140.98
+    98.425 106.102 0
+    0 106.102 0
+    0 106.102 137.795
+    98.425 106.102 137.795
+    98.425 81.496 137.795
+    98.425 81.496 83.966
+    98.425 0 83.966
+    98.425 0 0
+    98.425 81.496 0
+    98.425 106.102 0
+    98.425 106.102 137.795
+    98.425 0 0
+    95.503 0 2.922
+    0 0 0
+    95.503 0 2.922
+    98.425 0 0
+    98.425 0 83.966
+    2.922 0 2.922
+    0 0 0
+    95.503 0 2.922
+    0 0 0
+    2.922 0 2.922
+    0 0 83.966
+    0 0 83.966
+    2.922 0 2.922
+    2.922 0 83.775
+    21.684 0 54.558
+    24.606 0 57.48
+    21.684 0 83.775
+    24.606 0 57.48
+    21.684 0 54.558
+    73.819 0 57.48
+    21.684 0 83.775
+    24.606 0 57.48
+    24.606 0 83.966
+    24.606 0 57.48
+    24.606 81.496 57.48
+    24.606 81.496 83.966
+    24.606 0 83.966
+    24.187 0 87.15
+    24.606 0 83.966
+    24.606 81.496 83.966
+    24.187 81.496 87.15
+    96.777 0 90.118
+    98.006 0 87.15
+    98.006 81.496 87.15
+    96.777 81.496 90.118
+    94.224 0 88.644
+    98.006 0 87.15
+    96.777 0 90.118
+    95.159 0 86.388
+    98.006 0 87.15
+    94.224 0 88.644
+    95.159 0 86.388
+    98.425 0 83.966
+    98.006 0 87.15
+    95.503 0 83.775
+    98.425 0 83.966
+    95.159 0 86.388
+    95.503 0 2.922
+    98.425 0 83.966
+    95.503 0 83.775
+    94.224 0 88.644
+    96.777 0 90.118
+    92.737 0 90.582
+    92.737 0 90.582
+    96.777 0 90.118
+    94.822 0 92.666
+    94.822 0 92.666
+    96.777 0 90.118
+    96.777 81.496 90.118
+    94.822 81.496 92.666
+    92.274 0 94.621
+    94.822 0 92.666
+    94.822 81.496 92.666
+    92.274 81.496 94.621
+    88.543 0 93.003
+    94.822 0 92.666
+    92.274 0 94.621
+    90.8 0 92.068
+    94.822 0 92.666
+    88.543 0 93.003
+    92.737 0 90.582
+    94.822 0 92.666
+    90.8 0 92.068
+    89.306 0 95.85
+    92.274 0 94.621
+    92.274 81.496 94.621
+    89.306 81.496 95.85
+    82.938 0 95.85
+    92.274 0 94.621
+    89.306 0 95.85
+    79.97 0 94.621
+    92.274 0 94.621
+    82.938 0 95.85
+    86.122 0 93.322
+    92.274 0 94.621
+    79.97 0 94.621
+    88.543 0 93.003
+    92.274 0 94.621
+    86.122 0 93.322
+    82.938 0 95.85
+    89.306 0 95.85
+    86.122 0 96.269
+    86.122 0 96.269
+    89.306 0 95.85
+    89.306 81.496 95.85
+    86.122 81.496 96.269
+    82.938 0 95.85
+    86.122 0 96.269
+    86.122 81.496 96.269
+    82.938 81.496 95.85
+    79.97 0 94.621
+    82.938 0 95.85
+    82.938 81.496 95.85
+    79.97 81.496 94.621
+    77.422 0 92.666
+    79.97 0 94.621
+    79.97 81.496 94.621
+    77.422 81.496 92.666
+    77.422 0 92.666
+    83.701 0 93.003
+    79.97 0 94.621
+    77.422 0 92.666
+    81.444 0 92.068
+    83.701 0 93.003
+    77.422 0 92.666
+    79.507 0 90.582
+    81.444 0 92.068
+    75.467 0 90.118
+    79.507 0 90.582
+    77.422 0 92.666
+    75.467 0 90.118
+    78.02 0 88.644
+    79.507 0 90.582
+    74.238 0 87.15
+    78.02 0 88.644
+    75.467 0 90.118
+    74.238 0 87.15
+    77.085 0 86.388
+    78.02 0 88.644
+    73.819 0 83.966
+    77.085 0 86.388
+    74.238 0 87.15
+    73.819 0 83.966
+    76.741 0 83.775
+    77.085 0 86.388
+    73.819 0 57.48
+    76.741 0 83.775
+    73.819 0 83.966
+    73.819 0 57.48
+    76.741 0 54.558
+    76.741 0 83.775
+    76.741 0 54.558
+    73.819 0 57.48
+    21.684 0 54.558
+    24.606 0 57.48
+    73.819 0 57.48
+    73.819 81.496 57.48
+    24.606 81.496 57.48
+    73.819 81.496 57.48
+    73.819 0 57.48
+    73.819 0 83.966
+    73.819 81.496 83.966
+    73.819 0 83.966
+    74.238 0 87.15
+    74.238 81.496 87.15
+    73.819 81.496 83.966
+    74.238 0 87.15
+    75.467 0 90.118
+    75.467 81.496 90.118
+    74.238 81.496 87.15
+    75.467 0 90.118
+    77.422 0 92.666
+    77.422 81.496 92.666
+    75.467 81.496 90.118
+    79.97 0 94.621
+    83.701 0 93.003
+    86.122 0 93.322
+    0 0 83.966
+    2.922 0 83.775
+    3.266 0 86.388
+    0 0 83.966
+    3.266 0 86.388
+    .419 0 87.15
+    .419 0 87.15
+    3.266 0 86.388
+    4.201 0 88.644
+    .419 0 87.15
+    4.201 0 88.644
+    1.648 0 90.118
+    1.648 0 90.118
+    4.201 0 88.644
+    5.688 0 90.582
+    1.648 0 90.118
+    5.688 0 90.582
+    3.604 0 92.666
+    3.604 0 92.666
+    5.688 0 90.582
+    7.625 0 92.068
+    3.604 0 92.666
+    7.625 0 92.068
+    9.882 0 93.003
+    3.604 0 92.666
+    9.882 0 93.003
+    6.152 0 94.621
+    6.152 0 94.621
+    9.882 0 93.003
+    12.303 0 93.322
+    12.303 0 93.322
+    18.455 0 94.621
+    6.152 0 94.621
+    14.725 0 93.003
+    18.455 0 94.621
+    12.303 0 93.322
+    14.725 0 93.003
+    21.003 0 92.666
+    18.455 0 94.621
+    16.981 0 92.068
+    21.003 0 92.666
+    14.725 0 93.003
+    18.919 0 90.582
+    21.003 0 92.666
+    16.981 0 92.068
+    18.919 0 90.582
+    22.958 0 90.118
+    21.003 0 92.666
+    20.405 0 88.644
+    22.958 0 90.118
+    18.919 0 90.582
+    20.405 0 88.644
+    24.187 0 87.15
+    22.958 0 90.118
+    21.34 0 86.388
+    24.187 0 87.15
+    20.405 0 88.644
+    21.34 0 86.388
+    24.606 0 83.966
+    24.187 0 87.15
+    21.684 0 83.775
+    24.606 0 83.966
+    21.34 0 86.388
+    22.958 0 90.118
+    24.187 0 87.15
+    24.187 81.496 87.15
+    22.958 81.496 90.118
+    21.003 0 92.666
+    22.958 0 90.118
+    22.958 81.496 90.118
+    21.003 81.496 92.666
+    18.455 0 94.621
+    21.003 0 92.666
+    21.003 81.496 92.666
+    18.455 81.496 94.621
+    6.152 0 94.621
+    18.455 0 94.621
+    9.119 0 95.85
+    9.119 0 95.85
+    18.455 0 94.621
+    15.487 0 95.85
+    15.487 0 95.85
+    18.455 0 94.621
+    18.455 81.496 94.621
+    15.487 81.496 95.85
+    12.303 0 96.269
+    15.487 0 95.85
+    15.487 81.496 95.85
+    12.303 81.496 96.269
+    9.119 0 95.85
+    15.487 0 95.85
+    12.303 0 96.269
+    9.119 0 95.85
+    12.303 0 96.269
+    12.303 81.496 96.269
+    9.119 81.496 95.85
+    6.152 0 94.621
+    9.119 0 95.85
+    9.119 81.496 95.85
+    6.152 81.496 94.621
+    3.604 0 92.666
+    6.152 0 94.621
+    6.152 81.496 94.621
+    3.604 81.496 92.666
+    1.648 0 90.118
+    3.604 0 92.666
+    3.604 81.496 92.666
+    1.648 81.496 90.118
+    .419 0 87.15
+    1.648 0 90.118
+    1.648 81.496 90.118
+    .419 81.496 87.15
+    0 0 83.966
+    .419 0 87.15
+    .419 81.496 87.15
+    0 81.496 83.966
+    98.425 81.496 137.795
+    98.425 81.915 140.98
+    0 81.915 140.98
+    0 81.496 137.795
+    98.425 81.915 140.98
+    98.425 83.144 143.947
+    0 83.144 143.947
+    0 81.915 140.98'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet98'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material8'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.643 .698 .733'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet911'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    19 20 21 -1
+    19 21 4 -1
+    19 4 5 -1
+    19 5 6 -1
+    19 6 7 -1
+    19 7 8 -1
+    19 8 9 -1
+    19 9 10 -1
+    19 10 11 -1
+    19 11 12 -1
+    19 12 13 -1
+    19 13 14 -1
+    19 14 15 -1
+    19 15 18 -1
+    16 17 18 -1
+    16 18 15 -1
+    22 23 24 -1
+    22 24 25 -1
+    22 25 26 -1
+    22 26 27 -1
+    22 27 28 -1
+    22 28 29 -1
+    22 29 30 -1
+    22 30 31 -1
+    22 31 32 -1
+    22 32 33 -1
+    22 33 34 -1
+    35 36 37 -1
+    35 37 38 -1
+    39 40 41 -1
+    39 41 42 -1
+    43 44 45 -1
+    43 45 46 -1
+    47 48 49 -1
+    47 49 50 -1
+    51 52 53 -1
+    51 53 54 -1
+    55 56 57 -1
+    55 57 58 -1
+    59 60 61 -1
+    59 61 62 -1
+    63 64 65 -1
+    63 65 66 -1
+    67 68 69 -1
+    67 69 70 -1
+    71 72 73 -1
+    71 73 74 -1
+    75 76 77 -1
+    75 77 78 -1
+    84 85 79 -1
+    84 79 81 -1
+    84 81 82 -1
+    84 82 83 -1
+    81 79 80 -1
+    86 87 88 -1
+    86 88 89 -1
+    90 91 92 -1
+    93 94 95 -1
+    96 97 98 -1
+    99 100 101 -1
+    102 103 104 -1
+    105 106 107 -1
+    105 107 108 -1
+    109 110 111 -1
+    109 111 112 -1
+    127 129 126 -1
+    126 129 130 -1
+    126 130 125 -1
+    125 130 131 -1
+    125 131 124 -1
+    124 131 132 -1
+    124 132 123 -1
+    123 132 133 -1
+    123 133 122 -1
+    122 133 134 -1
+    122 134 121 -1
+    121 134 135 -1
+    121 135 120 -1
+    120 135 142 -1
+    120 142 113 -1
+    113 114 115 -1
+    113 115 116 -1
+    113 116 117 -1
+    113 117 118 -1
+    113 118 119 -1
+    113 119 120 -1
+    142 135 136 -1
+    142 136 137 -1
+    142 137 138 -1
+    142 138 139 -1
+    142 139 140 -1
+    142 140 141 -1
+    129 127 128 -1
+    143 144 145 -1
+    143 145 146 -1
+    147 148 149 -1
+    150 151 152 -1
+    153 154 155 -1
+    156 157 158 -1
+    159 160 161 -1
+    162 163 164 -1
+    165 166 167 -1
+    168 169 170 -1
+    171 172 173 -1
+    171 173 174 -1
+    175 176 177 -1
+    178 179 180 -1
+    181 182 183 -1
+    184 185 186 -1
+    184 186 187 -1
+    188 189 190 -1
+    188 190 191 -1
+    192 193 194 -1
+    195 196 197 -1
+    198 199 200 -1
+    201 202 203 -1
+    204 205 206 -1
+    207 208 209 -1
+    207 209 210 -1
+    211 212 213 -1
+    211 213 214 -1
+    215 216 217 -1
+    215 217 218 -1
+    219 220 221 -1
+    219 221 222 -1
+    223 224 225 -1
+    226 227 228 -1
+    229 230 231 -1
+    229 231 232 -1
+    233 234 235 -1
+    233 235 236 -1
+    237 238 239 -1
+    237 239 240 -1
+    241 242 243 -1
+    241 243 244 -1
+    245 246 247 -1
+    248 249 250 -1
+    251 252 264 -1
+    264 252 253 -1
+    264 253 263 -1
+    263 253 254 -1
+    263 254 262 -1
+    262 254 255 -1
+    262 255 261 -1
+    261 255 256 -1
+    261 256 260 -1
+    260 256 257 -1
+    260 257 259 -1
+    259 257 258 -1
+    280 251 265 -1
+    280 265 266 -1
+    280 266 267 -1
+    280 267 279 -1
+    273 274 272 -1
+    272 274 275 -1
+    272 275 271 -1
+    271 275 276 -1
+    271 276 270 -1
+    270 276 277 -1
+    270 277 269 -1
+    269 277 278 -1
+    269 278 268 -1
+    268 278 279 -1
+    268 279 267 -1
+    265 251 264 -1
+    281 282 283 -1
+    284 285 286 -1
+    287 288 289 -1
+    290 291 292 -1
+    293 294 295 -1
+    296 297 298 -1
+    299 300 301 -1
+    302 303 304 -1
+    305 306 307 -1
+    308 309 310 -1
+    311 312 313 -1
+    314 315 316 -1
+    317 318 319 -1
+    320 321 322 -1
+    323 324 325 -1
+    326 327 328 -1
+    329 330 331 -1
+    332 333 334 -1
+    335 336 337 -1
+    338 339 340 -1
+    341 342 343 -1
+    344 345 346 -1
+    347 348 349 -1
+    350 351 352 -1
+    353 354 355 -1
+    356 357 358 -1
+    356 358 359 -1
+    360 361 362 -1
+    363 364 365 -1
+    363 365 366 -1
+    367 368 369 -1
+    367 369 370 -1
+    371 372 373 -1
+    374 375 376 -1
+    377 378 379 -1
+    380 381 382 -1
+    383 384 385 -1
+    386 387 388 -1
+    389 390 391 -1
+    392 393 394 -1
+    392 394 395 -1
+    396 397 398 -1
+    396 398 399 -1
+    400 401 402 -1
+    403 404 405 -1
+    403 405 406 -1
+    407 408 409 -1
+    407 409 410 -1
+    411 412 413 -1
+    411 413 414 -1
+    415 416 417 -1
+    415 417 418 -1
+    419 420 421 -1
+    419 421 422 -1
+    423 424 425 -1
+    423 425 426 -1
+    427 428 429 -1
+    430 431 432 -1
+    430 432 433 -1
+    434 435 436 -1
+    434 436 437 -1
+    438 439 440 -1
+    438 440 441 -1'>
+                <Coordinate DEF='IndexedFaceSet98_Coord'
+                            containerField='coord'
+                            point='
+    98.006 81.496 87.15
+    98.425 81.496 83.966
+    98.425 0 83.966
+    98.006 0 87.15
+    0 104.454 143.947
+    0 102.499 146.495
+    0 99.951 148.45
+    0 96.984 149.679
+    0 93.799 150.098
+    0 90.615 149.679
+    0 87.648 148.45
+    0 85.1 146.495
+    0 83.144 143.947
+    0 81.915 140.98
+    0 81.496 137.795
+    0 81.496 83.966
+    0 0 83.966
+    0 0 0
+    0 81.496 0
+    0 106.102 0
+    0 106.102 137.795
+    0 105.683 140.98
+    98.425 83.144 143.947
+    98.425 85.1 146.495
+    98.425 87.648 148.45
+    98.425 90.615 149.679
+    98.425 93.799 150.098
+    98.425 96.984 149.679
+    98.425 99.951 148.45
+    98.425 102.499 146.495
+    98.425 104.454 143.947
+    98.425 105.683 140.98
+    98.425 106.102 137.795
+    98.425 81.496 137.795
+    98.425 81.915 140.98
+    0 83.144 143.947
+    0 85.1 146.495
+    98.425 85.1 146.495
+    98.425 83.144 143.947
+    0 85.1 146.495
+    0 87.648 148.45
+    98.425 87.648 148.45
+    98.425 85.1 146.495
+    0 87.648 148.45
+    0 90.615 149.679
+    98.425 90.615 149.679
+    98.425 87.648 148.45
+    0 90.615 149.679
+    0 93.799 150.098
+    98.425 93.799 150.098
+    98.425 90.615 149.679
+    0 93.799 150.098
+    0 96.984 149.679
+    98.425 96.984 149.679
+    98.425 93.799 150.098
+    0 96.984 149.679
+    0 99.951 148.45
+    98.425 99.951 148.45
+    98.425 96.984 149.679
+    0 99.951 148.45
+    0 102.499 146.495
+    98.425 102.499 146.495
+    98.425 99.951 148.45
+    0 102.499 146.495
+    0 104.454 143.947
+    98.425 104.454 143.947
+    98.425 102.499 146.495
+    0 104.454 143.947
+    0 105.683 140.98
+    98.425 105.683 140.98
+    98.425 104.454 143.947
+    0 105.683 140.98
+    0 106.102 137.795
+    98.425 106.102 137.795
+    98.425 105.683 140.98
+    98.425 106.102 137.795
+    0 106.102 137.795
+    0 106.102 0
+    98.425 106.102 0
+    98.425 106.102 137.795
+    98.425 106.102 0
+    98.425 81.496 0
+    98.425 0 0
+    98.425 0 83.966
+    98.425 81.496 83.966
+    98.425 81.496 137.795
+    98.425 0 0
+    98.425 81.496 0
+    0 81.496 0
+    0 0 0
+    0 0 0
+    95.503 0 2.922
+    98.425 0 0
+    0 0 83.966
+    2.922 0 2.922
+    0 0 0
+    2.922 0 83.775
+    2.922 0 2.922
+    0 0 83.966
+    21.684 0 83.775
+    24.606 0 57.48
+    21.684 0 54.558
+    24.606 0 83.966
+    24.606 0 57.48
+    21.684 0 83.775
+    24.606 0 83.966
+    24.606 81.496 83.966
+    24.606 81.496 57.48
+    24.606 0 57.48
+    24.187 81.496 87.15
+    24.606 81.496 83.966
+    24.606 0 83.966
+    24.187 0 87.15
+    98.425 81.496 137.795
+    98.425 81.496 83.966
+    98.006 81.496 87.15
+    96.777 81.496 90.118
+    94.822 81.496 92.666
+    92.274 81.496 94.621
+    89.306 81.496 95.85
+    86.122 81.496 96.269
+    82.938 81.496 95.85
+    79.97 81.496 94.621
+    77.422 81.496 92.666
+    75.467 81.496 90.118
+    74.238 81.496 87.15
+    73.819 81.496 83.966
+    73.819 81.496 57.48
+    24.606 81.496 57.48
+    24.606 81.496 83.966
+    24.187 81.496 87.15
+    22.958 81.496 90.118
+    21.003 81.496 92.666
+    18.455 81.496 94.621
+    15.487 81.496 95.85
+    12.303 81.496 96.269
+    9.119 81.496 95.85
+    6.152 81.496 94.621
+    3.604 81.496 92.666
+    1.648 81.496 90.118
+    .419 81.496 87.15
+    0 81.496 83.966
+    0 81.496 137.795
+    96.777 81.496 90.118
+    98.006 81.496 87.15
+    98.006 0 87.15
+    96.777 0 90.118
+    98.425 0 83.966
+    98.425 0 0
+    95.503 0 2.922
+    95.503 0 83.775
+    98.425 0 83.966
+    95.503 0 2.922
+    95.159 0 86.388
+    98.425 0 83.966
+    95.503 0 83.775
+    98.006 0 87.15
+    98.425 0 83.966
+    95.159 0 86.388
+    94.224 0 88.644
+    98.006 0 87.15
+    95.159 0 86.388
+    96.777 0 90.118
+    98.006 0 87.15
+    94.224 0 88.644
+    92.737 0 90.582
+    96.777 0 90.118
+    94.224 0 88.644
+    94.822 0 92.666
+    96.777 0 90.118
+    92.737 0 90.582
+    94.822 81.496 92.666
+    96.777 81.496 90.118
+    96.777 0 90.118
+    94.822 0 92.666
+    90.8 0 92.068
+    94.822 0 92.666
+    92.737 0 90.582
+    88.543 0 93.003
+    94.822 0 92.666
+    90.8 0 92.068
+    92.274 0 94.621
+    94.822 0 92.666
+    88.543 0 93.003
+    92.274 81.496 94.621
+    94.822 81.496 92.666
+    94.822 0 92.666
+    92.274 0 94.621
+    89.306 81.496 95.85
+    92.274 81.496 94.621
+    92.274 0 94.621
+    89.306 0 95.85
+    86.122 0 93.322
+    92.274 0 94.621
+    88.543 0 93.003
+    79.97 0 94.621
+    92.274 0 94.621
+    86.122 0 93.322
+    82.938 0 95.85
+    92.274 0 94.621
+    79.97 0 94.621
+    89.306 0 95.85
+    92.274 0 94.621
+    82.938 0 95.85
+    86.122 0 96.269
+    89.306 0 95.85
+    82.938 0 95.85
+    86.122 81.496 96.269
+    89.306 81.496 95.85
+    89.306 0 95.85
+    86.122 0 96.269
+    82.938 81.496 95.85
+    86.122 81.496 96.269
+    86.122 0 96.269
+    82.938 0 95.85
+    79.97 81.496 94.621
+    82.938 81.496 95.85
+    82.938 0 95.85
+    79.97 0 94.621
+    77.422 81.496 92.666
+    79.97 81.496 94.621
+    79.97 0 94.621
+    77.422 0 92.666
+    21.684 0 54.558
+    73.819 0 57.48
+    76.741 0 54.558
+    73.819 0 57.48
+    21.684 0 54.558
+    24.606 0 57.48
+    24.606 81.496 57.48
+    73.819 81.496 57.48
+    73.819 0 57.48
+    24.606 0 57.48
+    73.819 81.496 83.966
+    73.819 0 83.966
+    73.819 0 57.48
+    73.819 81.496 57.48
+    73.819 81.496 83.966
+    74.238 81.496 87.15
+    74.238 0 87.15
+    73.819 0 83.966
+    74.238 81.496 87.15
+    75.467 81.496 90.118
+    75.467 0 90.118
+    74.238 0 87.15
+    77.422 0 92.666
+    79.507 0 90.582
+    75.467 0 90.118
+    81.444 0 92.068
+    79.507 0 90.582
+    77.422 0 92.666
+    76.741 0 54.558
+    76.741 0 83.775
+    77.085 0 86.388
+    78.02 0 88.644
+    79.507 0 90.582
+    81.444 0 92.068
+    83.701 0 93.003
+    86.122 0 93.322
+    88.543 0 93.003
+    90.8 0 92.068
+    92.737 0 90.582
+    94.224 0 88.644
+    95.159 0 86.388
+    95.503 0 83.775
+    95.503 0 2.922
+    2.922 0 2.922
+    2.922 0 83.775
+    3.266 0 86.388
+    4.201 0 88.644
+    5.688 0 90.582
+    7.625 0 92.068
+    9.882 0 93.003
+    12.303 0 93.322
+    14.725 0 93.003
+    16.981 0 92.068
+    18.919 0 90.582
+    20.405 0 88.644
+    21.34 0 86.388
+    21.684 0 83.775
+    21.684 0 54.558
+    76.741 0 83.775
+    76.741 0 54.558
+    73.819 0 57.48
+    73.819 0 83.966
+    76.741 0 83.775
+    73.819 0 57.48
+    77.085 0 86.388
+    76.741 0 83.775
+    73.819 0 83.966
+    74.238 0 87.15
+    77.085 0 86.388
+    73.819 0 83.966
+    78.02 0 88.644
+    77.085 0 86.388
+    74.238 0 87.15
+    75.467 0 90.118
+    78.02 0 88.644
+    74.238 0 87.15
+    79.507 0 90.582
+    78.02 0 88.644
+    75.467 0 90.118
+    83.701 0 93.003
+    81.444 0 92.068
+    77.422 0 92.666
+    79.97 0 94.621
+    83.701 0 93.003
+    77.422 0 92.666
+    86.122 0 93.322
+    83.701 0 93.003
+    79.97 0 94.621
+    95.503 0 2.922
+    0 0 0
+    2.922 0 2.922
+    3.266 0 86.388
+    2.922 0 83.775
+    0 0 83.966
+    .419 0 87.15
+    3.266 0 86.388
+    0 0 83.966
+    4.201 0 88.644
+    3.266 0 86.388
+    .419 0 87.15
+    1.648 0 90.118
+    4.201 0 88.644
+    .419 0 87.15
+    5.688 0 90.582
+    4.201 0 88.644
+    1.648 0 90.118
+    3.604 0 92.666
+    5.688 0 90.582
+    1.648 0 90.118
+    7.625 0 92.068
+    5.688 0 90.582
+    3.604 0 92.666
+    9.882 0 93.003
+    7.625 0 92.068
+    3.604 0 92.666
+    6.152 0 94.621
+    9.882 0 93.003
+    3.604 0 92.666
+    12.303 0 93.322
+    9.882 0 93.003
+    6.152 0 94.621
+    21.34 0 86.388
+    24.606 0 83.966
+    21.684 0 83.775
+    24.187 0 87.15
+    24.606 0 83.966
+    21.34 0 86.388
+    20.405 0 88.644
+    24.187 0 87.15
+    21.34 0 86.388
+    22.958 0 90.118
+    24.187 0 87.15
+    20.405 0 88.644
+    22.958 81.496 90.118
+    24.187 81.496 87.15
+    24.187 0 87.15
+    22.958 0 90.118
+    21.003 0 92.666
+    22.958 0 90.118
+    18.919 0 90.582
+    21.003 81.496 92.666
+    22.958 81.496 90.118
+    22.958 0 90.118
+    21.003 0 92.666
+    18.455 81.496 94.621
+    21.003 81.496 92.666
+    21.003 0 92.666
+    18.455 0 94.621
+    18.455 0 94.621
+    21.003 0 92.666
+    14.725 0 93.003
+    14.725 0 93.003
+    21.003 0 92.666
+    16.981 0 92.068
+    16.981 0 92.068
+    21.003 0 92.666
+    18.919 0 90.582
+    12.303 0 93.322
+    18.455 0 94.621
+    14.725 0 93.003
+    6.152 0 94.621
+    18.455 0 94.621
+    12.303 0 93.322
+    9.119 0 95.85
+    18.455 0 94.621
+    6.152 0 94.621
+    15.487 0 95.85
+    18.455 0 94.621
+    9.119 0 95.85
+    15.487 81.496 95.85
+    18.455 81.496 94.621
+    18.455 0 94.621
+    15.487 0 95.85
+    12.303 81.496 96.269
+    15.487 81.496 95.85
+    15.487 0 95.85
+    12.303 0 96.269
+    12.303 0 96.269
+    15.487 0 95.85
+    9.119 0 95.85
+    9.119 81.496 95.85
+    12.303 81.496 96.269
+    12.303 0 96.269
+    9.119 0 95.85
+    6.152 81.496 94.621
+    9.119 81.496 95.85
+    9.119 0 95.85
+    6.152 0 94.621
+    3.604 81.496 92.666
+    6.152 81.496 94.621
+    6.152 0 94.621
+    3.604 0 92.666
+    1.648 81.496 90.118
+    3.604 81.496 92.666
+    3.604 0 92.666
+    1.648 0 90.118
+    .419 81.496 87.15
+    1.648 81.496 90.118
+    1.648 0 90.118
+    .419 0 87.15
+    0 81.496 83.966
+    .419 81.496 87.15
+    .419 0 87.15
+    0 0 83.966
+    18.919 0 90.582
+    22.958 0 90.118
+    20.405 0 88.644
+    75.467 81.496 90.118
+    77.422 81.496 92.666
+    77.422 0 92.666
+    75.467 0 90.118
+    0 81.496 137.795
+    0 81.915 140.98
+    98.425 81.915 140.98
+    98.425 81.496 137.795
+    0 81.915 140.98
+    0 83.144 143.947
+    98.425 83.144 143.947
+    98.425 81.915 140.98'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet99'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material12'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='1 1 1'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet912'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1'>
+                <Coordinate DEF='IndexedFaceSet99_Coord'
+                            containerField='coord'
+                            point='
+    0 0 0
+    0 81.496 0
+    98.425 81.496 0
+    98.425 0 0'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet910'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material81'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.6 .6 .239'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet913'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 13 -1
+    13 1 2 -1
+    13 2 12 -1
+    12 2 3 -1
+    12 3 11 -1
+    11 3 4 -1
+    11 4 10 -1
+    10 4 5 -1
+    10 5 9 -1
+    9 5 6 -1
+    9 6 8 -1
+    8 6 7 -1
+    29 0 14 -1
+    29 14 15 -1
+    29 15 16 -1
+    29 16 28 -1
+    22 23 21 -1
+    21 23 24 -1
+    21 24 20 -1
+    20 24 25 -1
+    20 25 19 -1
+    19 25 26 -1
+    19 26 18 -1
+    18 26 27 -1
+    18 27 17 -1
+    17 27 28 -1
+    17 28 16 -1
+    14 0 13 -1'>
+                <Coordinate DEF='IndexedFaceSet910_Coord'
+                            containerField='coord'
+                            point='
+    21.684 0 54.558
+    21.684 0 83.775
+    21.34 0 86.388
+    20.405 0 88.644
+    18.919 0 90.582
+    16.981 0 92.068
+    14.725 0 93.003
+    12.303 0 93.322
+    9.882 0 93.003
+    7.625 0 92.068
+    5.688 0 90.582
+    4.201 0 88.644
+    3.266 0 86.388
+    2.922 0 83.775
+    2.922 0 2.922
+    95.503 0 2.922
+    95.503 0 83.775
+    95.159 0 86.388
+    94.224 0 88.644
+    92.737 0 90.582
+    90.8 0 92.068
+    88.543 0 93.003
+    86.122 0 93.322
+    83.701 0 93.003
+    81.444 0 92.068
+    79.507 0 90.582
+    78.02 0 88.644
+    77.085 0 86.388
+    76.741 0 83.775
+    76.741 0 54.558'/>
+            </IndexedFaceSet>
+        </Shape>
+    </Scene>
+</X3D>

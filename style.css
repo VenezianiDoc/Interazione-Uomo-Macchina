@@ -1,0 +1,173 @@
+#aree {
+	display:block;
+	float:left;
+	width: 80%;
+	font-weight: bold;
+}
+
+#aree li button:hover {
+	background-color:black;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+#aree li button {
+	border-radius: 5px;
+}
+
+#aree li {
+	display: inline;
+}
+
+button#bInnovazione {
+
+	background: #F400A1;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bGovernance {
+
+	background: green;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bPersonale {
+
+	background: red;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bStudenti {
+
+	background:  #E30B5C;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bMateriali {
+
+	background: #ADD8E6;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bEnergia {
+
+	background: orange;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bAcqua {
+
+	background: blue;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bRifiuti {
+
+	background: #6B8E23;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bSupplyChain {
+
+	background: #FFCC00;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bMobilita {
+
+	background: #000080;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	color: white;
+	border: 0px;
+}
+
+button#bGenerale:hover {
+	color: white;
+}
+button#bGenerale {
+
+	color: black;
+	background: white;
+	padding: .5em;
+	height: 50px;
+	width: 9%;
+	margin-left: -2px;
+	margin-right: -2px;
+	border: 0px;
+}
+
+
+select { 
+   cursor: pointer;
+   font-size: 30px;
+   color: white;
+   padding:3px;
+   border-radius: 5px;
+   height: 50px;
+   overflow: hidden;
+   background: red;
+   border: 1px solid white;
+   position:absolute;
+   z-index: 2;
+   margin-left: 60%;
+   margin-top: 50%;
+ }
+	

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D version="3.0" profile="Immersive" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+     xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.0.xsd">
+    <head>
+        <meta name='Vizthumbnail' content='Thumb_telecamere_x3d2315141400440204.jpg'/>
+        <meta name='filename' content='taxi.x3d'/>
+        <meta name='generator' content='Blender 2.69 (sub 0)'/>
+        <meta name='filename' content='vaporetto.x3d'/>
+        <meta name='ExportTime' content='21:10: 4'/>
+        <meta name='ExportDate' content='5/18/2014'/>
+        <meta name='VivatyStudioVersion' content='738'/>
+        <meta name='VivatyStudioSource' content='prgetto ium- leggero.fxw'/>
+    </head>
+    <Scene>
+        <WorldInfo
+                title='gondola'
+                info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+			"www.mediamachines.com"'/>
+
+        <Viewpoint DEF='camStudenti' id='camStudenti'
+                   description='Viewpoint9'
+                   jump='true'
+                   fieldOfView='.24024'
+                   position='5000 286.601 -1785'
+                   orientation='-.182 -.983 -.029 .826'/>
+
+        <Viewpoint DEF='camGenerale' id='camGenerale'
+                   description='generale'
+                   jump='true'
+                   fieldOfView='.51326'
+                   position='3660.16491 710.07612 227.69014'
+                   orientation='-.149 -.984 .096 .432'/>
+
+        <Viewpoint DEF='camMobilita' id='camMobilita'
+                   description='trasporti'
+                   jump='true'
+                   fieldOfView='.4097'
+                   position='2992.83 215.579 -657.384'
+                   orientation='.004 -.999 -.044 .496'/>
+
+        <Viewpoint DEF='camInnovazione' id='camInnovazione'
+                   description='innovazione'
+                   jump='true'
+                   fieldOfView='.13668'
+                   position='5581.29 1287.87 -615.384'
+                   orientation='-.931 .36 -.058 .168'/>
+
+        <Viewpoint DEF='camMateriali' id='camMateriali'
+                   description='alberi'
+                   jump='true'
+                   fieldOfView='.7854'
+                   position='6479.75 220.388 -2329.2'
+                   orientation='0 -1 0 .748'/>
+
+        <Viewpoint DEF='camRifiuti' id='camRifiuti'
+                   description='cestini'
+                   jump='true'
+                   fieldOfView='.47874'
+                   position='5982 180 -1929'
+                   orientation='-.233 -.971 .045 .652'/>
+
+        <Viewpoint DEF='camGovernance' id='camGovernance'
+                   description='rettore'
+                   jump='true'
+                   fieldOfView='.15865'
+                   position='5581 1046 -572'
+                   orientation='-.95 .311 .017 .202'/>
+
+        <Viewpoint DEF='camEnergia' id='camEnergia'
+                   description='lampione'
+                   jump='true'
+                   fieldOfView='.20944'
+                   position='4850 100 10'
+                   orientation='0 0 1 0'/>
+
+        <Viewpoint DEF='camAcqua' id='camAcqua'
+                   description='pozzo'
+                   jump='true'
+                   fieldOfView='.7854'
+                   position='5457 113 -2348'
+                   orientation='0 0 1 0'/>
+
+        <Viewpoint DEF='camcamSupplyChain' id='camSupplyChain'
+                   description='supply_chain'
+                   jump='true'
+                   fieldOfView='.7854'
+                   position='4350 11 -3640'
+                   orientation='.148 -.986 .077 1.104'/>
+
+        <Viewpoint DEF='camPersonale' id='camPersonale'
+                   description='personale'
+                   jump='true'
+                   fieldOfView='.51326'
+                   position='5906 20 -3700'
+                   orientation='0 0 1 0'/>
+    </Scene>
+</X3D>

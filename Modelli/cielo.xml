@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive' >
+<head>
+ <meta name='Vizthumbnail' content='Thumb_cielo_x3d18872951401619369.jpg'/>
+ <meta name='filename' content='taxi.x3d'/>
+ <meta name='generator' content='Blender 2.69 (sub 0)'/>
+ <meta name='filename' content='vaporetto.x3d'/>
+ <meta name='ExportTime' content='12:42:49'/>
+ <meta name='ExportDate' content='6/1/2014'/>
+ <meta name='VivatyStudioVersion' content='738'/>
+ <meta name='VivatyStudioSource' content='ium/pro/prgetto ium- leggero.fxw'/>
+</head>
+<Scene>
+<WorldInfo
+ title='gondola'
+ info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+ "www.mediamachines.com"'/>
+<Background DEF='cielo'
+ skyAngle='
+  .74176
+  .92721
+  1.01993
+  1.06629
+  1.08947
+  1.10106
+  1.10685
+  1.10975
+  1.1112
+  1.11192
+  1.11229
+  1.11247
+  1.11256
+  1.1126
+  1.11263
+  1.11264
+  1.11264
+  1.11265
+  1.11265
+  1.11265
+  1.11265
+  1.20537
+  1.25173
+  1.29809'
+ skyColor='
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .42353 .71373 1
+  .54118 .77255 1'
+ groundAngle=''
+ groundColor='
+  0 0 0'/>
+</Scene>
+</X3D>

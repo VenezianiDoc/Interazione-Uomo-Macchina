@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive' >
+<head>
+ <meta name='Vizthumbnail' content='Thumb_oggetto_x3d859211401522965.jpg'/>
+ <meta name='filename' content='taxi.x3d'/>
+ <meta name='generator' content='Blender 2.69 (sub 0)'/>
+ <meta name='filename' content='vaporetto.x3d'/>
+ <meta name='ExportTime' content='9:56: 5'/>
+ <meta name='ExportDate' content='5/31/2014'/>
+ <meta name='VivatyStudioVersion' content='738'/>
+ <meta name='VivatyStudioSource' content='interazioneuomomacchinavenezianidoc/progetto/pro/prgetto-ium- leggero.fxw'/>
+</head>
+<Scene>
+<WorldInfo
+ title='gondola'
+ info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+ "www.mediamachines.com"'/>
+<Shape DEF='oggetto'>
+ <Appearance
+  containerField='appearance'>
+  <Material DEF='Red'
+   containerField='material'
+   ambientIntensity='.2'
+   shininess='.2'
+   diffuseColor='1 0 0'/>
+ </Appearance>
+ <Box DEF='GeoBox1'
+  containerField='geometry'
+  size='1 1 1'/>
+</Shape>
+</Scene>
+</X3D>

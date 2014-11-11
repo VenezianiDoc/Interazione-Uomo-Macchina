@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive'>
+    <head>
+        <meta name='Vizthumbnail' content='Thumb_orologio_x3d3478511401217636.jpg'/>
+        <meta name='filename' content='taxi.x3d'/>
+        <meta name='generator' content='Blender 2.69 (sub 0)'/>
+        <meta name='filename' content='vaporetto.x3d'/>
+        <meta name='ExportTime' content='21: 7:16'/>
+        <meta name='ExportDate' content='5/27/2014'/>
+        <meta name='VivatyStudioVersion' content='738'/>
+        <meta name='VivatyStudioSource' content='prgetto ium- leggero.fxw'/>
+    </head>
+    <Scene>
+        <WorldInfo
+                title='gondola'
+                info='"This Web3D Content was created with Vivaty Studio, a Web3D authoring tool"
+ "www.mediamachines.com"'/>
+        <Shape DEF='IndexedFaceSet84'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material83'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.8 .8 .8'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet87'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    4 5 6 -1
+    4 6 7 -1'>
+                <Coordinate DEF='IndexedFaceSet84_Coord'
+                            containerField='coord'
+                            point='
+    5154.173 3833.785 731.332
+    5609.492 3833.785 731.332
+    5609.492 3833.785 990.036
+    5154.173 3833.785 990.036
+    5154.173 3833.785 731.332
+    5154.173 3833.785 990.036
+    5609.492 3833.785 990.036
+    5609.492 3833.785 731.332'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet85'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material12'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='1 1 1'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet88'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    4 5 6 -1
+    4 6 7 -1
+    8 9 10 -1
+    8 10 11 -1
+    12 13 14 -1
+    12 14 15 -1
+    16 17 18 -1
+    16 18 19 -1'>
+                <Coordinate DEF='IndexedFaceSet85_Coord'
+                            containerField='coord'
+                            point='
+    5628.228 3819.763 742.926
+    5140.389 3819.763 742.926
+    5140.389 3819.763 729.209
+    5628.228 3819.763 729.209
+    5628.228 3819.763 729.209
+    5140.389 3819.763 729.209
+    5140.389 3857.067 729.209
+    5628.228 3857.067 729.209
+    5140.389 3819.763 742.926
+    5140.389 3857.067 742.926
+    5140.389 3857.067 729.209
+    5140.389 3819.763 729.209
+    5628.228 3819.763 742.926
+    5628.228 3857.067 742.926
+    5140.389 3857.067 742.926
+    5140.389 3819.763 742.926
+    5628.228 3819.763 742.926
+    5628.228 3819.763 729.209
+    5628.228 3857.067 729.209
+    5628.228 3857.067 742.926'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet86'>
+            <Appearance
+                    containerField='appearance'>
+                <Material DEF='material8'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.643 .698 .733'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet89'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    4 5 6 -1
+    4 6 7 -1
+    8 9 10 -1
+    8 10 11 -1
+    12 13 14 -1
+    12 14 15 -1
+    16 17 18 -1
+    16 18 19 -1'>
+                <Coordinate DEF='IndexedFaceSet86_Coord'
+                            containerField='coord'
+                            point='
+    5628.228 3819.763 729.209
+    5140.389 3819.763 729.209
+    5140.389 3819.763 742.926
+    5628.228 3819.763 742.926
+    5628.228 3857.067 729.209
+    5140.389 3857.067 729.209
+    5140.389 3819.763 729.209
+    5628.228 3819.763 729.209
+    5140.389 3819.763 742.926
+    5140.389 3857.067 742.926
+    5628.228 3857.067 742.926
+    5628.228 3819.763 742.926
+    5140.389 3819.763 729.209
+    5140.389 3857.067 729.209
+    5140.389 3857.067 742.926
+    5140.389 3819.763 742.926
+    5628.228 3857.067 742.926
+    5628.228 3857.067 729.209
+    5628.228 3819.763 729.209
+    5628.228 3819.763 742.926'/>
+            </IndexedFaceSet>
+        </Shape>
+        <Shape DEF='IndexedFaceSet88'>
+            <Appearance
+                    containerField='appearance'>
+                <ImageTexture DEF="orologio" id="texture"
+                        url='meridiana_campagna.jpg'/>
+                <Material DEF='material13'
+                          containerField='material'
+                          ambientIntensity='.2'
+                          shininess='.2'
+                          diffuseColor='.8 .8 .8'/>
+            </Appearance>
+            <IndexedFaceSet DEF='GeoIndexedFaceSet91'
+                            containerField='geometry'
+                            creaseAngle='.5236'
+                            coordIndex='
+    0 1 2 -1
+    0 2 3 -1
+    1 5 6 -1
+    1 6 2 -1
+    2 6 7 -1
+    2 7 3 -1
+    3 7 4 -1
+    3 4 0 -1
+    0 4 5 -1
+    0 5 1 -1
+    6 5 4 -1
+    6 4 7 -1'
+                            texCoordIndex='
+    0 2 3 -1
+    0 3 1 -1
+    0 2 3 -1
+    0 3 1 -1
+    0 2 3 -1
+    0 3 1 -1
+    0 2 3 -1
+    0 3 1 -1
+    0 2 3 -1
+    0 3 1 -1
+    1 0 2 -1
+    1 2 3 -1'>
+                <Coordinate DEF='IndexedFaceSet88_Coord'
+                            containerField='coord'
+                            point='
+    5146.47 3835.4 739.723
+    5146.47 3835.4 989.723
+    5626.47 3835.4 989.723
+    5626.47 3835.4 739.723
+    5146.47 3823.4 739.723
+    5146.47 3823.4 989.723
+    5626.47 3823.4 989.723
+    5626.47 3823.4 739.723'/>
+                <TextureCoordinate
+                        containerField='texCoord'
+                        point='
+    0 1
+    1 1
+    0 0
+    1 0'/>
+            </IndexedFaceSet>
+        </Shape>
+    </Scene>
+</X3D>
